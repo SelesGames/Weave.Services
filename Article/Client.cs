@@ -7,7 +7,7 @@ using Weave.Services.Article.Contracts;
 using Incoming = Weave.Services.Article.DTOs.ServerIncoming;
 using Outgoing = Weave.Services.Article.DTOs.ServerOutgoing;
 
-namespace Weave.Services.Article.Client
+namespace Weave.Services.Article
 {
     public class Client : IWeaveArticleService
     {
